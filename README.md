@@ -26,7 +26,8 @@
 1. 实现左右的表单布局，要求写在了下面的[石墨文档](https://shimo.im/docs/Ddg8GkyyR8PctgDC/)里。
 2. 前端效果可以借助bootstrap框架，Vue框架等等你熟悉的工具。这里对JS和CSS的打包要求是没有的，也不要对Retina屏幕进行识别，但是需要保证小屏幕显示无bug。
 3. 后端本地需要建立一个接口，接口建立方式可以node，java或者php，并能够连接本地的mysql数据库；最终这边会检查你的接口建立情况。
-4. 最后你全部实现完成，可以把自己的接口换成下面这个，我检查一下后端入库情况。请求方法post，接口链接：https://frg.fineres.com/kr/wp-content/themes/japan_index/api/contact_us.php，请求参数如下：
+4. 最后你全部实现完成，可以把自己的接口换成下面这个，我检查一下后端入库情况。请求方法post，接口链接：https://frg.fineres.com/kr/wp-content/themes/japan_index/api/contact_us.php,
+   请求参数如下：
    * email
    * username
    * phone
